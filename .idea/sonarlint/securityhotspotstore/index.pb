@@ -1,0 +1,55 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+P
+ src/main/java/model/Cliente.java,8\c\8c289541017307b7646dc4e6384db7964e3d55df
+P
+ src/main/java/model/Estados.java,8\c\8c05d066d9f58345369fe73684c384decadf37ce
+P
+ src/main/java/model/Factura.java,0\f\0feb5c2dede840febd675572cfbabcee19d4737e
+O
+src/main/java/model/Estado.java,1\7\170055c94c22474f9eaf9f73100d95178ec2c1bb
+Q
+!src/main/java/model/Producto.java,8\2\82d4d0c5b7a28279e35e6a9db28f55de7ad2053c
+W
+'src/main/java/model/DetalleFactura.java,d\4\d4476bda8e1841da0867eb907ddcb5484f47ce7f
+\
+,src/main/java/com/coudevi/model/Cliente.java,c\a\caea6044e39f534b7c8dd8f1360f2a8314c161a8
+[
++src/main/java/com/coudevi/model/Estado.java,5\9\599a8ff5111551d57791d8e9ae28aa57ff9dfda0
+c
+3src/main/java/com/coudevi/model/DetalleFactura.java,8\d\8d27f57456339aeb38ea74aaff15ee26e5670fcc
+]
+-src/main/java/com/coudevi/model/Producto.java,a\c\ac35460ea8243843e5834b92c85616a075864533
+\
+,src/main/java/com/coudevi/model/Factura.java,c\3\c3a55994d689fa1fde592353a2d6d6d7e931d5be
+R
+"src/main/java/com/coudevi/App.java,8\7\8754ad27dfce3ec5deeffbc70c57dc22cb211f09
+Z
+*src/main/java/service/IClienteService.java,9\2\92366cea755ccf5a5401f278e90854a9f4b8e0e9
+f
+6src/main/java/com/coudevi/service/IClienteService.java,3\0\30f5c7435cc318839c9475621ff4b3e4d34bccc5
+g
+7src/main/java/com/coudevi/util/EntityManagerConfig.java,e\a\eaa41ef0900914267db31ebce04cf065b7b84c70
+n
+>src/main/java/com/coudevi/service/impl/ClienteServiceImpl.java,2\2\22b95e3c6a73bdf98b9d932de83581bc5468bb2c
+l
+<src/main/java/com/coudevi/service/impl/IProductoService.java,f\2\f2f5183b922dbe8003c915af79e87cd619788c44
+g
+7src/main/java/com/coudevi/service/IProductoService.java,4\9\4944e84b6eb09f0adf92d1c0d4471ab8d4103cec
+k
+;src/main/java/com/coudevi/service/impl/ProductoService.java,e\3\e3ed58d76fdfab039db36a16f05c4ebb057f483d
+f
+6src/main/java/com/coudevi/service/IFacturaService.java,8\b\8b514fae3baceebcc70ff231312fa99b4db57c05
+n
+>src/main/java/com/coudevi/service/impl/FacturaServiceImpl.java,8\4\8441286c1d6e496ec9b6a4c2f85e7410c4a30120
+b
+2src/main/java/com/coudevi/model/EstadoFactura.java,0\2\02a28949e66f3209b3aede80cfbda062b84ee1b0
+`
+0src/test/java/com/coudevi/model/FacturaTest.java,e\b\ebc42767651a79085fc505f7eb510e59ceefef4e
+m
+=src/main/java/com/coudevi/service/IDetalleFacturaService.java,7\e\7e2cbc09ef4a626a387a4ef7601222b75d7e1380
+o
+?src/main/java/com/coudevi/service/impl/ProductoServiceImpl.java,0\a\0a4b5f9622a5933aff418787bf11754fe696b584
+u
+Esrc/main/java/com/coudevi/service/impl/DetalleFacturaServiceImpl.java,2\d\2df69e121b233eea772fe26fafcc3b14fa821236
